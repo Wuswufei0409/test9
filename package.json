@@ -1,0 +1,11 @@
+{
+  "name": "test9-minecraft-web",
+  "version": "0.1.0",
+  "description": "Web Minecraft Bedrock 1.4.2-style voxel sandbox. W1: world/rendering core.",
+  "type": "module",
+  "scripts": {
+    "test": "node --test 'test/*.test.mjs'",
+    "serve": "npx --yes serve -l 8080 ."
+  },
+  "license": "MIT"
+}
