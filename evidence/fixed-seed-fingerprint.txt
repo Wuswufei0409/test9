@@ -1,0 +1,11 @@
+FINGERPRINT_V1
+seed    : canyon7
+region  : -140..140 step 10
+samples : 841
+biomes  : [["beach",106],["desert",29],["forest",148],["mountains",195],["ocean_deep_cold",17],["ocean_deep_warm",29],["ocean_shallow_cold",43],["ocean_shallow_warm",27],["plains",206],["snowy_plains",41]]
+height  : {"min":15,"max":62,"median":39}
+digest  : f233c317
+=== run2 ===
+digest  : f233c317
+=== run3 ===
+digest  : f233c317
